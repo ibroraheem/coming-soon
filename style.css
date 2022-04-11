@@ -1,7 +1,26 @@
+.navbar-nav {
+  margin-left: auto;
+}
+
+.nav-item, .navbar-brand, a .btn{
+  font-size: 26px !important;
+}
+
+h3{
+  font-size: 36px !important;
+}
+
+h1{
+  font-size: 56px !important;
+}
+p, label {
+  font-size: 20px !important;
+}
+
 .notify {
   border: 1px solid #ffc107;
   border-radius: 30px;
-  padding: 10px;
+  padding: 5px;
   width: 70%;
   display: flex;
 }
@@ -12,9 +31,11 @@
 }
 
 .notify button {
+  width: 25%;
+  margin-left:auto;
   border: none;
   border-radius: 30px;
-  padding: 5px;
+  padding: 10px 10px;
   color: white;
 }
 .notify button:hover{
