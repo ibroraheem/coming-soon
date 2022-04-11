@@ -68,5 +68,9 @@ input {
     outline: none !important;
 }
 textarea{
-    height: 280px !important;
+    height: 250px !important;
+}
+
+form button{
+
 }
