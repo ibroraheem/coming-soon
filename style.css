@@ -50,7 +50,14 @@ p, label {
 }
 
 .social-icons {
-  margin-top: 30vh !important;
+  margin-top: 10vh !important;
+  margin-left: 30px;
+  
+}
+
+.social-links{
+  display: flex;
+  margin-left: 20px;
 }
 
 .social-icons a {
@@ -80,4 +87,8 @@ textarea{
 
 footer p{
   text-align: center;
+}
+
+.content, .hero-img{
+  margin-top: 100px !important;
 }
