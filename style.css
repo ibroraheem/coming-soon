@@ -6,12 +6,19 @@
   font-size: 26px !important;
 }
 
+.navbar-collapse a{
+  font-size: 26px;
+}
+
 h3{
   font-size: 36px !important;
 }
 
 h1{
   font-size: 56px !important;
+}
+.hero p{
+  text-align: justify
 }
 p, label {
   font-size: 20px !important;
@@ -71,6 +78,6 @@ textarea{
     height: 250px !important;
 }
 
-form button{
-
+footer p{
+  text-align: center;
 }
