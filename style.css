@@ -2,25 +2,30 @@
   margin-left: auto;
 }
 
-.nav-item, .navbar-brand, a .btn{
+.nav-item,
+.navbar-brand,
+a .btn {
   font-size: 26px !important;
 }
 
-.navbar-collapse a{
+.navbar-collapse a {
   font-size: 26px;
 }
 
-h3{
+h3 {
   font-size: 36px !important;
 }
 
-h1{
+h1 {
   font-size: 56px !important;
 }
-.hero p{
-  text-align: justify
+
+.hero p {
+  text-align: justify;
 }
-p, label {
+
+p,
+label {
   font-size: 20px !important;
 }
 
@@ -31,6 +36,7 @@ p, label {
   width: 100%;
   display: flex;
 }
+
 .notify input {
   outline: none;
   border: none;
@@ -39,23 +45,29 @@ p, label {
 
 .notify button {
   width: 25%;
-  margin-left:auto;
+  margin-left: auto;
   border: none;
   border-radius: 30px;
   padding: 10px 10px;
   color: white;
 }
-.notify button:hover{
-    color: white;
+
+.notify button:hover {
+  color: white;
+}
+
+.social-cont {
+  display: flex !important;
+  justify-content: center;
 }
 
 .social-icons {
   margin-top: 10vh !important;
+  align-items: center;
   margin-left: 30px;
-  
 }
 
-.social-links{
+.social-links {
   display: flex;
   margin-left: 20px;
 }
@@ -73,22 +85,25 @@ i {
   color: #ffc107;
 }
 
-.map, .contact-form {
+.map,
+.contact-form {
   border-top: 3px solid #ffc107;
   border-bottom: 3px solid #ffc107;
 }
 
 input {
-    outline: none !important;
-}
-textarea{
-    height: 250px !important;
+  outline: none !important;
 }
 
-footer p{
+textarea {
+  height: 250px !important;
+}
+
+footer p {
   text-align: center;
 }
 
-.content, .hero-img{
+.content,
+.hero-img {
   margin-top: 100px !important;
 }
