@@ -1,0 +1,51 @@
+.notify {
+  border: 1px solid #ffc107;
+  border-radius: 30px;
+  padding: 10px;
+  width: 70%;
+  display: flex;
+}
+.notify input {
+  outline: none;
+  border: none;
+  width: 70%;
+}
+
+.notify button {
+  border: none;
+  border-radius: 30px;
+  padding: 5px;
+  color: white;
+}
+.notify button:hover{
+    color: white;
+}
+
+.social-icons {
+  margin-top: 30vh !important;
+}
+
+.social-icons a {
+  color: #ffc107;
+  margin: auto;
+}
+
+.social-icons a:hover {
+  color: #ffc107;
+}
+
+i {
+  color: #ffc107;
+}
+
+.map, .contact-form {
+  border-top: 3px solid #ffc107;
+  border-bottom: 3px solid #ffc107;
+}
+
+input {
+    outline: none !important;
+}
+textarea{
+    height: 280px !important;
+}
